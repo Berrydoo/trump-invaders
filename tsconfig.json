@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module":"system",
+        "noImplicitAny": true,
+        "noEmitOnError": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "./build",
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "include": [
+        "*.ts"
+    ]
+}
